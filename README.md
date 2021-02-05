@@ -7,3 +7,4 @@ Hello, 我是 kross，如果你喜欢我创作的内容，可以在下面的平�
 | CSDN | https://blog.csdn.net/krossford |
 | 简书 | https://www.jianshu.com/u/9aedddb80a1a | 
 | 微信公众号 | 请搜索“kross的学习笔记” | 
+| Bilibili | https://space.bilibili.com/1769296 | 
