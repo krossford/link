@@ -1,4 +1,5 @@
 ## About Me
+
 Hello, 我是 krosshj，如果你喜欢我创作的内容，可以在下面的平台上找到我。
 
 | 平台 | 链接  |
@@ -16,3 +17,7 @@ Hello, 我是 krosshj，如果你喜欢我创作的内容，可以在下面的�
 
 ## Indie Game Works
 
+| Game | Android | IOS |
+| --- | --- | --- |
+| Make More Melon | [GooglePlay](https://play.google.com/store/apps/details?id=com.ecat.MakeMoreMelon) | --- |
+| Paper Plane Master | [GooglePlay](https://play.google.com/store/apps/details?id=com.ecat.PaperPlaneMaster) | --- |
